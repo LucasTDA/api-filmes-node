@@ -51,6 +51,7 @@ http://localhost:3000/api/filmes
 
 
 🧪 Rotas da API
+
 Método	    Rota	                Descrição
 
 GET	        /api/filmes	            Retorna todos os filmes
