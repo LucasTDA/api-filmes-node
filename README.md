@@ -54,15 +54,15 @@ http://localhost:3000/api/filmes
 
 Método	    Rota	                Descrição
 
-GET	        /api/filmes	            Retorna todos os filmes
+GET	        -/api/filmes	            -Retorna todos os filmes
 
-GET	        /api/filmes/:id	        Retorna um filme específico
+GET	        -/api/filmes/:id	        -Retorna um filme específico
 
-POST	    /api/filmes	            Cadastra um novo filme
+POST	    -/api/filmes	            -Cadastra um novo filme
 
-PUT	        /api/filmes/:id	        Atualiza um filme existente
+PUT	        -/api/filmes/:id	        -Atualiza um filme existente
 
-DELETE	    /api/filmes/:id	        Remove um filme do sistema
+DELETE	    -/api/filmes/:id	        -Remove um filme do sistema
 
 
 🧠 Objetivos de Aprendizado
@@ -77,5 +77,6 @@ DELETE	    /api/filmes/:id	        Remove um filme do sistema
 
 
 👨‍💻 Autor
-Lucas TDA
+Lucas.
+
 Desenvolvedor em formação e entusiasta de tecnologias backend com foco em JavaScript, Node.js e APIs REST.
