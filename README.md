@@ -52,17 +52,26 @@ http://localhost:3000/api/filmes
 
 🧪 Rotas da API
 Método	    Rota	                Descrição
+
 GET	        /api/filmes	            Retorna todos os filmes
+
 GET	        /api/filmes/:id	        Retorna um filme específico
+
 POST	    /api/filmes	            Cadastra um novo filme
+
 PUT	        /api/filmes/:id	        Atualiza um filme existente
+
 DELETE	    /api/filmes/:id	        Remove um filme do sistema
 
 
 🧠 Objetivos de Aprendizado
+
 -Criar uma API RESTful do zero com Node.js
+
 -Aplicar boas práticas de modularização de rotas
+
 -Utilizar arquivos JSON como armazenamento de dados temporário
+
 -Realizar operações CRUD usando JavaScript puro no back-end
 
 
